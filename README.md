@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElvisAdesese
-- 👀 I’m interested in Data Anaysis
+- 👀 I’m interested in Data Anaysis for Business Intelligence 
 
 
 <!---
